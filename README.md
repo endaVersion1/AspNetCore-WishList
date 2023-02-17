@@ -1,4 +1,5 @@
 # ASP.NET Core WishList Application
+....
 
 The ASP.NET Core WishList Application is designed to allow users to create their own wishlists, and other users to mark that they are buying those items in such a way the owner of the wish list isn't able to see, while other users are able to see. This application is designed using the Model View Controller design pattern.
 
