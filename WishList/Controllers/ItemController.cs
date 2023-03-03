@@ -10,7 +10,5 @@ namespace WishList.Controllers
         {
             return View();
         }
-
-        public 
     }
 }
